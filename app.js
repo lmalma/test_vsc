@@ -7,7 +7,7 @@ const {routesInit} = require("./routes/config_routes")
 // require("./db/mongoconnect");
 
 const app = express();
-// חחחח
+// חחחחj
 // נותן גישה לכל הדומיינים לגשת לשרת שלנו
 app.use(cors());
 // כדי שנוכל לקבל באדי ויתרגם אותו לפורמט ג'ייסון
